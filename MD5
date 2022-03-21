@@ -1,0 +1,15 @@
+1c9bd40b3cb2a851c00ea47e739b940a *DESCRIPTION
+cd6f457ca6986b700fa6d28eec693778 *NAMESPACE
+4a2e52ff380601876eb54a25ee16fd01 *R/dLBPG.R
+5edd4e198236e27433ec34c4bfefe524 *R/pLBPG.R
+929ff079d59a44a6e936c1ba618561cd *R/qLBPG.R
+8e2de1c14ff8c6f9fa80a996904b2b58 *R/rLBPG.R
+3778a230eedcf87ee6ed9426616e7116 *man/dLBPG.Rd
+634fd41a0fdaeb980f6a91ec6dc4e504 *man/pLBPG.Rd
+de53299a1d65ac242904f8237e28d6e3 *man/qLBPG.Rd
+49e38b434d445b0d2d10d1df660bbef2 *man/rLBPG.Rd
+6ff3bad56b6e0c23bef756092936273d *tests/testthat.R
+a1e30d164c8cc54ea06d91257b0cdcbe *tests/testthat/test-dLBPG.R
+f8d6fc081f68509ac0171b377570b538 *tests/testthat/test-pLBPG.R
+c33b592158cc804aeeed5c01f104ad2a *tests/testthat/test-qLBPG.R
+4aed6b26900b2a6a4d52ff25bc403af6 *tests/testthat/test-rLBPG.R
